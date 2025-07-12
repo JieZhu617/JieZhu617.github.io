@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjiezhu_site=self.webpackChunkjiezhu_site||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Chang Yeol Ryu Travel Award","permalink":"/blog/Chang Yeol Ryu Travel Award"}]}')}}]);

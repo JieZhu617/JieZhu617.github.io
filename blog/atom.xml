@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://demo.jiezhu.site/blog</id>
+    <title>Zhu Blog</title>
+    <updated>2025-03-18T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://demo.jiezhu.site/blog"/>
+    <subtitle>Zhu Blog</subtitle>
+    <icon>https://demo.jiezhu.site/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Chang Yeol Ryu Travel Award]]></title>
+        <id>https://demo.jiezhu.site/blog/Chang Yeol Ryu Travel Award</id>
+        <link href="https://demo.jiezhu.site/blog/Chang Yeol Ryu Travel Award"/>
+        <updated>2025-03-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I am honored to receive the APS DPOLY Chang Yeol Ryu Travel Award, which supported my first trip to the APS Joint March & April Meeting Global Physics Summit, where I presented my work "Stretching Response of a Polymer Chain with Deformable Bonds."]]></summary>
+        <content type="html"><![CDATA[<p>I am honored to receive the APS DPOLY <a href="https://engage.aps.org/dpoly/honors/prizes-awards/chang-yeol-ryu-travel-fund" target="_blank" rel="noopener noreferrer"><strong>Chang Yeol Ryu Travel Award</strong></a>, which supported my first trip to the APS Joint March &amp; April Meeting Global Physics Summit, where I presented my work "Stretching Response of a Polymer Chain with Deformable Bonds."</p><p><img loading="lazy" alt="Award image" src="/assets/images/img-b06e3636e576db41f81a46fb6bac3592.jpg" width="1879" height="1415" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Jie Zhu</name>
+        </author>
+        <category label="Award" term="Award"/>
+    </entry>
+</feed>
